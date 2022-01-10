@@ -69,3 +69,8 @@ const hasRobotArms = null;
 // Siempre usar const a menos que necesites mutarlo
 
 // NO PRIMITIVOS
+
+const comida = {
+    desayuno: 'Hot Cakes',
+    comida: 'Chilaquiles'
+}
