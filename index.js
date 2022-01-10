@@ -72,7 +72,10 @@ const hasRobotArms = null;
 // OBJETO
 const comida = {
     desayuno: 'Hot Cakes',
-    comida: 'Chilaquiles'
+    comida: 'Chilaquiles',
+    cena: 'Manzana'
 }
 
 // PROBANDO1
+// PROBANDO2
+// PROBANDO3
