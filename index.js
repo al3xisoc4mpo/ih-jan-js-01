@@ -79,3 +79,5 @@ const comida = {
 // PROBANDO1
 // PROBANDO2
 // PROBANDO3
+// PROBANDO4
+// PROBANDO5
